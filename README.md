@@ -25,3 +25,7 @@ sqlフォルダ内の構成は以下のようになっています。
 2. モデル作成のクエリ句をBigQuery上で実行する。
 3. モデル予測 or 評価のクエリ句をBigQuery上で実行し、予測結果もしくは評価結果を得る。
 
+
+## 参考
+- [BigQuery ML 予測モデルによるタクシー運賃の予測](https://www.cloudskillsboost.google/focuses/1797?locale=ja&parent=catalog)
+
